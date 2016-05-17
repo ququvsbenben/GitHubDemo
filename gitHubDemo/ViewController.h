@@ -12,6 +12,6 @@
 
 @property (nonatomic, strong) NSString * name;
 
+@property (nonatomic, strong) NSString * name2;
 
 @end
-
